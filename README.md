@@ -25,7 +25,7 @@ sticker("C:\\Users\\srish\\Desktop\\10.jpg", package="ACMEeqtl", p_size=20, s_x=
 ```
 # Logo 
 
-![](aa.jpg)
+![](logo.png)
 
 # Author
 - Srishti 
