@@ -1,6 +1,6 @@
 
 # Introduction
-This is my work from the Google Code-in task 'Draw a hexagon logo for an R package'. Below you can see the code with comments.
+This is my work from the Google Code-in task 'Draw a hexagon logo for an R package'. 
 
 # Prerequisites
 - R
